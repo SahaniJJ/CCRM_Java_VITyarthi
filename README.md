@@ -69,4 +69,35 @@ The project demonstrates **Object-Oriented Programming (OOP)**, advanced **Java 
     - Date/Time API (LocalDate, LocalDateTime).
     - Assertions.
 
+---
 
+## ⚙️ Project Setup
+
+### 1. Prerequisites
+- **Java JDK** (version 11 or 17 recommended).
+- **BlueJ IDE** installed on your system.
+- Basic knowledge of running console applications.
+
+### 2. Clone or Download Project
+- Clone from GitHub:
+```bash
+git clone https://github.com/SahaniJJ/CCRM_Java_VITyarthi.git
+```
+### 3. Open in BlueJ
+1. Launch **BlueJ**.  
+2. Go to **Project → Open Project…**  
+3. Select the project folder (`CCRM/`).  
+4. BlueJ will show class diagrams for all packages.  
+
+---
+
+### 4. Compile the Project
+1. From the menu, select **Project → Compile All**.  
+2. Ensure all classes are compiled successfully (boxes turn light blue).  
+
+---
+
+### 5. Run the Application
+1. Right-click on `MainMenu` (inside the `edu.ccrm.cli` package).  
+2. Choose **void main(String[] args)**.  
+3. The BlueJ terminal will open and display the CLI menu.  
