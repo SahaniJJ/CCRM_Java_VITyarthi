@@ -69,6 +69,4 @@ The project demonstrates **Object-Oriented Programming (OOP)**, advanced **Java 
     - Date/Time API (LocalDate, LocalDateTime).
     - Assertions.
 
----
 
-## 📂 Package Structure
